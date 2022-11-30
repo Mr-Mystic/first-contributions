@@ -2,6 +2,7 @@
 
 <!-- prettier-ignore-start -->
 - [Pawan Yadav](https://github.com/pawanyy)
+- [Pranay Chakravarty@devsocPI](https://github.com/Mr-Mystic)
 - [Somnath Golui](https://github.com/somu-code)
 - [Jiving Pete's Frisky Dynamite](https://github.com/jives-mcgee)
 - [Shivani R](https://github.com/shivu-srk)
